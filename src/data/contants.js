@@ -26,11 +26,6 @@ export const skills = [
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
       },
-      // {
-      //   name: "Redux",
-      //   image:
-      //     "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
-      // },
       {
         name: "tailwind",
         image:
@@ -343,21 +338,15 @@ export const projects = [
     title: "Chat-App",
     date: "Jun 2023 - Jul 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+    "Developed a full-stack web application that allows users to create Rooms, Groups and can chat with in real Time also can share any files and audio for better user experience.",
     image:
       "https://i.ibb.co/VHzg1x2/chatApp.png",
     tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
       "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
+      "Eslint",
+      "Firebase",
+      "Prettier",
+      "React Hooks", "React Router", "Styled Components",
     ],
     category: "web app",
     github: "https://github.com/16achint/Chat-app",
@@ -367,11 +356,10 @@ export const projects = [
     id: 0,
     title: "box-office-App",
     date: "May 2023 - June 2023",
-    description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+    description:"A dynamic React-based app designed for movies Built using the power of React and leveraging a variety of custom hooks, such as useFetchAPI ",
     image:
       "https://i.ibb.co/6HDpPh7/box-office.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    tags: ["React Js", "React Hooks", "React Router", "Styled Components"],
     category: "web app",
     github: "https://github.com/16achint/box-office-App",
     webapp: "https://16achint.github.io/box-office-App/",
@@ -381,16 +369,11 @@ export const projects = [
     title: "Tictactoe Game",
     date: "Apr 2022 - May 2023",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+    "Designed and developed the Tictactoe Game using React.js, Responsive Design, Interactive Gameplay, Winner Declaration",
     image:
       "https://i.ibb.co/JzN0hb7/Screenshot-2023-12-13-at-7-50-01-PM.png",
     tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
+      "React Js", "React Hooks", "React Router", "Styled Components"
     ],
     category: "web app",
     github: "https://github.com/16achint/tictactoe-game",
@@ -401,13 +384,13 @@ export const projects = [
     title: "Restaurant App",
     date: "Feb 2023 - March 2023",
     description:
-      "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
+      "A android Restaurant app made with Kotlin. It has a login page where users can login. It has a sidebar where users can see all the detail and categories.",
     image:
       "https://i.ibb.co/YtYTR5L/Screenshot-2023-12-13-at-8-41-08-PM.png",
-    tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
+    tags: ["Kotlin", "MVVM", "Room Database", "Volly"],
     category: "android app",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    github: "https://github.com/16achint/Restaurant_app",
+    webapp: "https://github.com/16achint/Restaurant_app",
   },
   {
     id: 4,
@@ -417,7 +400,7 @@ export const projects = [
       "A TwoGood clone made with Html, TailwindCss and locomotive Js for smooth scrolling ",
     image:
       "https://i.ibb.co/0XN352V/Screenshot-2023-12-13-at-7-51-08-PM.png",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+    tags: ["HTML","TailwindCss","locomotive Js"],
     category: "web app",
     github: "https://github.com/16achint/twogoodclone",
     webapp: "https://16achint.github.io/twogoodclone/",
@@ -430,7 +413,7 @@ export const projects = [
       "A Spotify clone made with Html, Css only",
     image:
       "https://www.financialexpress.com/wp-content/uploads/2021/03/spotify.png?w=350",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+    tags: ["HTML", "CSS"],
     category: "web app",
     github: "https://github.com/16achint/Spotify-clone",
     webapp: "https://16achint.github.io/Spotify-clone/",
@@ -438,41 +421,41 @@ export const projects = [
   {
     id: 5,
     title: "Todo Web App",
-    date: "Jun 2021",
+    date: "Jun 2023",
     description:
       " A Todo Web App made with React JS",
     image:
       "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
+    tags: ["React Js", "TailwindCss"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
-    webapp: "https://rishav-react-todo.netlify.app/",
+    github: "https://github.com/16achint/todoList-APP",
+    webapp: "https://github.com/16achint/todoList-APP",
   },
   {
     id: 7,
     title: "Quiz App",
-    date: "Dec 2020 - Jan 2021",
+    date: "Feb 2023 - March 2023",
     description:
-      "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
+      "A android quiz app made with Kotlin and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
     image:
       "https://i.ibb.co/2F3SyYy/image.png",
     tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
     category: "android app",
-    github: "https://github.com/rishavchanda/Quiz-Earn",
-    webapp: "https://github.com/rishavchanda/Quiz-Earn",
+    github: "https://github.com/16achint/Quizz",
+    webapp: "https://github.com/16achint/Quizz",
   },
   {
     id: 8,
-    title: "Face Recognition",
+    title: "House Pricing Prediction",
     date: "Jan 2021",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "A House Pricing Prediction python app made with JupyterNote. It uses Predict House Pricing.",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7lyor-xFDpLET2e9iG4jm5zFH7fGHGEHjSg&usqp=CAU",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    tags: ["Python"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/16achint",
+    webapp: "",
   },
 ];
 
