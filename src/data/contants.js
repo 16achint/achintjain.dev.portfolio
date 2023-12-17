@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/16achint",
   resume:
-    "https://drive.google.com/file/d/1tTKg4vFbiGiecvJVgNKFBMdPIUUWxsbO/view",
+    "https://drive.google.com/file/d/1Ahy3DtxgSQxFMTzf23kpZOThmZhL6828/view",
   linkedin: "https://www.linkedin.com/in/achint-jain-a521b9213/?_l=en_US",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/j_achint/",
