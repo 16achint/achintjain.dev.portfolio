@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/16achint",
   resume:
-    "https://drive.google.com/file/d/1Ahy3DtxgSQxFMTzf23kpZOThmZhL6828/view",
+    "https://drive.google.com/file/d/1Vh4mI-npzKZz7FJYYZka_h2ieoB2DMkR/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/achint-jain-a521b9213/?_l=en_US",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/j_achint/",
@@ -50,7 +50,6 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
-     
     ],
   },
   {
@@ -137,7 +136,7 @@ export const skills = [
         image:
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       },
-      
+
       {
         name: "Netlify",
         image:
@@ -338,15 +337,16 @@ export const projects = [
     title: "Chat-App",
     date: "Jun 2023 - Jul 2023",
     description:
-    "Developed a full-stack web application that allows users to create Rooms, Groups and can chat with in real Time also can share any files and audio for better user experience.",
-    image:
-      "https://i.ibb.co/VHzg1x2/chatApp.png",
+      "Developed a full-stack web application that allows users to create Rooms, Groups and can chat with in real Time also can share any files and audio for better user experience.",
+    image: "https://i.ibb.co/VHzg1x2/chatApp.png",
     tags: [
       "React Js",
       "Eslint",
       "Firebase",
       "Prettier",
-      "React Hooks", "React Router", "Styled Components",
+      "React Hooks",
+      "React Router",
+      "Styled Components",
     ],
     category: "web app",
     github: "https://github.com/16achint/Chat-app",
@@ -356,9 +356,9 @@ export const projects = [
     id: 0,
     title: "box-office-App",
     date: "May 2023 - June 2023",
-    description:"A dynamic React-based app designed for movies Built using the power of React and leveraging a variety of custom hooks, such as useFetchAPI ",
-    image:
-      "https://i.ibb.co/6HDpPh7/box-office.png",
+    description:
+      "A dynamic React-based app designed for movies Built using the power of React and leveraging a variety of custom hooks, such as useFetchAPI ",
+    image: "https://i.ibb.co/6HDpPh7/box-office.png",
     tags: ["React Js", "React Hooks", "React Router", "Styled Components"],
     category: "web app",
     github: "https://github.com/16achint/box-office-App",
@@ -369,12 +369,9 @@ export const projects = [
     title: "Tictactoe Game",
     date: "Apr 2022 - May 2023",
     description:
-    "Designed and developed the Tictactoe Game using React.js, Responsive Design, Interactive Gameplay, Winner Declaration",
-    image:
-      "https://i.ibb.co/JzN0hb7/Screenshot-2023-12-13-at-7-50-01-PM.png",
-    tags: [
-      "React Js", "React Hooks", "React Router", "Styled Components"
-    ],
+      "Designed and developed the Tictactoe Game using React.js, Responsive Design, Interactive Gameplay, Winner Declaration",
+    image: "https://i.ibb.co/JzN0hb7/Screenshot-2023-12-13-at-7-50-01-PM.png",
+    tags: ["React Js", "React Hooks", "React Router", "Styled Components"],
     category: "web app",
     github: "https://github.com/16achint/tictactoe-game",
     webapp: "http://achint-tictactoe.surge.sh/",
@@ -385,8 +382,7 @@ export const projects = [
     date: "Feb 2023 - March 2023",
     description:
       "A android Restaurant app made with Kotlin. It has a login page where users can login. It has a sidebar where users can see all the detail and categories.",
-    image:
-      "https://i.ibb.co/YtYTR5L/Screenshot-2023-12-13-at-8-41-08-PM.png",
+    image: "https://i.ibb.co/YtYTR5L/Screenshot-2023-12-13-at-8-41-08-PM.png",
     tags: ["Kotlin", "MVVM", "Room Database", "Volly"],
     category: "android app",
     github: "https://github.com/16achint/Restaurant_app",
@@ -398,9 +394,8 @@ export const projects = [
     date: "Nov 2023",
     description:
       "A TwoGood clone made with Html, TailwindCss and locomotive Js for smooth scrolling ",
-    image:
-      "https://i.ibb.co/0XN352V/Screenshot-2023-12-13-at-7-51-08-PM.png",
-    tags: ["HTML","TailwindCss","locomotive Js"],
+    image: "https://i.ibb.co/0XN352V/Screenshot-2023-12-13-at-7-51-08-PM.png",
+    tags: ["HTML", "TailwindCss", "locomotive Js"],
     category: "web app",
     github: "https://github.com/16achint/twogoodclone",
     webapp: "https://16achint.github.io/twogoodclone/",
@@ -409,8 +404,7 @@ export const projects = [
     id: 4,
     title: "Spotify-clone",
     date: "Nov 2023",
-    description:
-      "A Spotify clone made with Html, Css only",
+    description: "A Spotify clone made with Html, Css only",
     image:
       "https://www.financialexpress.com/wp-content/uploads/2021/03/spotify.png?w=350",
     tags: ["HTML", "CSS"],
@@ -422,8 +416,7 @@ export const projects = [
     id: 5,
     title: "Todo Web App",
     date: "Jun 2023",
-    description:
-      " A Todo Web App made with React JS",
+    description: " A Todo Web App made with React JS",
     image:
       "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
     tags: ["React Js", "TailwindCss"],
@@ -437,8 +430,7 @@ export const projects = [
     date: "Feb 2023 - March 2023",
     description:
       "A android quiz app made with Kotlin and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-    image:
-      "https://i.ibb.co/2F3SyYy/image.png",
+    image: "https://i.ibb.co/2F3SyYy/image.png",
     tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
     category: "android app",
     github: "https://github.com/16achint/Quizz",
