@@ -274,7 +274,7 @@ export const projects = [
         date: "",
         description:
             "A full-stack cloud-based IDE that dynamically creates isolated development environments using Kubernetes containers. Each project gets its own containerized workspace with real-time collaboration capabilities.",
-        image: "https://i.ibb.co/LX3gbyb3/Screenshot-2025-10-15-at-1-14-52-PM.png",
+        image: "https://raw.githubusercontent.com/16achint/react-Portfolio/main/public/images/cloudIDE.png",
         tags: ["Kubernetes", "Docker", "AWS S3", "Auth2.0", "React Js", "Node Js", "Express Js", "MongoDB"],
         category: "web app",
         github: "https://github.com/16achint/cloudIDE",
@@ -286,7 +286,7 @@ export const projects = [
         date: "",
         description:
             "A full-stack cloud-based IDE that dynamically creates isolated development environments using Kubernetes containers. Each project gets its own containerized workspace with real-time collaboration capabilities.",
-        image: "https://i.ibb.co/TMfL0w91/Screenshot-2025-10-15-at-9-45-13-PM.png",
+        image: "https://raw.githubusercontent.com/16achint/react-Portfolio/main/public/images/azuki.png",
         tags: ["Kubernetes", "Docker", "AWS S3", "Auth2.0", "React Js", "Node Js", "Express Js", "MongoDB"],
         category: "web app",
         github: "https://github.com/16achint/Azuki-Engine",
@@ -310,7 +310,7 @@ export const projects = [
         // date: "Jun 2023 - Jul 2023",
         description:
             "Developed a full-stack web application that allows users to create Rooms, Groups and can chat with in real Time also can share any files and audio for better user experience.",
-        image: "https://i.ibb.co/VHzg1x2/chatApp.png",
+        image: "https://raw.githubusercontent.com/16achint/react-Portfolio/main/public/images/chatApp.png",
         tags: ["React Js", "Eslint", "Firebase", "Prettier", "React Hooks", "React Router", "Styled Components"],
         category: "web app",
         github: "https://github.com/16achint/Chat-app",
@@ -323,7 +323,7 @@ export const projects = [
         // date: "May 2023 - June 2023",
         description:
             "A dynamic React-based app designed for movies Built using the power of React and leveraging a variety of custom hooks, such as useFetchAPI ",
-        image: "https://i.ibb.co/6HDpPh7/box-office.png",
+        image: "https://raw.githubusercontent.com/16achint/react-Portfolio/main/public/images/box-office.png",
         tags: ["React Js", "React Hooks", "React Router", "Styled Components"],
         category: "web app",
         github: "https://github.com/16achint/box-office-App",
