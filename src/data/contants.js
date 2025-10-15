@@ -339,7 +339,7 @@ export const projects = [
         tags: ["React Js", "React Hooks", "React Router", "Styled Components"],
         category: "web app",
         github: "https://github.com/16achint/tictactoe-game",
-        webapp: "http://achint-tictactoe.surge.sh/",
+        // webapp: "http://achint-tictactoe.surge.sh/",
     },
     {
         id: 3,
