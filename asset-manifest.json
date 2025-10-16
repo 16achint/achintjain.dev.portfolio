@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/achintjain.dev.portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/achintjain.dev.portfolio/static/js/main.d17b4e43.js",
+    "static/media/azuki.avif": "/achintjain.dev.portfolio/static/media/azuki.8ff1a2e915d323942e53.avif",
+    "index.html": "/achintjain.dev.portfolio/index.html",
+    "main.bf538fe7.css.map": "/achintjain.dev.portfolio/static/css/main.bf538fe7.css.map",
+    "main.d17b4e43.js.map": "/achintjain.dev.portfolio/static/js/main.d17b4e43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.d17b4e43.js"
+  ]
+}
