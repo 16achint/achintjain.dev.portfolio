@@ -287,7 +287,7 @@ export const projects = [
         description:
             "A full-stack cloud-based IDE that dynamically creates isolated development environments using Kubernetes containers. Each project gets its own containerized workspace with real-time collaboration capabilities.",
         image: "https://raw.githubusercontent.com/16achint/react-Portfolio/main/public/images/azuki.png",
-        tags: ["Kubernetes", "Docker", "AWS S3", "Auth2.0", "React Js", "Node Js", "Express Js", "MongoDB"],
+        tags: ["React Js", "Node Js", "Google gemini"],
         category: "web app",
         github: "https://github.com/16achint/Azuki-Engine",
         webapp: "https://github.com/16achint/Azuki-Engine",
@@ -299,7 +299,7 @@ export const projects = [
         description:
             "A full-stack cloud-based IDE that dynamically creates isolated development environments using Kubernetes containers. Each project gets its own containerized workspace with real-time collaboration capabilities.",
         image: "https://dianapps.com/blog/wp-content/uploads/2022/12/1080600.png",
-        tags: ["Kubernetes", "Docker", "AWS S3", "Auth2.0", "React Js", "Node Js", "Express Js", "MongoDB"],
+        tags: ["React Js", "Node Js", "Socket.io", "Google Map API", "Express Js", "MongoDB"],
         category: "web app",
         github: "https://github.com/16achint/cloudIDE",
         webapp: "https://github.com/16achint/cloudIDE",
